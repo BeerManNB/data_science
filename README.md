@@ -6,3 +6,6 @@ Binary classification
 
 Xsolla_2.ipynb
 Задача кластеризации
+
+apartments
+Немного простой обработки данных. регулярные выражения
