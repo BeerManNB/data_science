@@ -1,6 +1,8 @@
 # data_science
 
-Xsolla Task 1
+Xsolla_1 (1).ipynb
 Binary classification
+Задача бинарной классификации по банковскому продукту
 
-run Xsolla_1 (1).ipynb
+Xsolla_2.ipynb
+Задача кластеризации
